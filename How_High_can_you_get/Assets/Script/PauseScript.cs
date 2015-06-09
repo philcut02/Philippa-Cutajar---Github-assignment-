@@ -18,7 +18,7 @@ public class PauseScript: MonoBehaviour {
 
 		
 			
-			Time.timeScale = 0;
+			Time.timeScale = 1;
 		}
 
 		if (GUI.Button (new Rect (Screen.width / 2 +-650f, Screen.height / 5 + 20f, 75f, 50f), "Continue")) {
