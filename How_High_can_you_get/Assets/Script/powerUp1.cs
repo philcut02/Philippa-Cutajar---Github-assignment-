@@ -11,7 +11,9 @@ public class powerUp1 : MonoBehaviour {
 		hit = true;
 	}
 
-
+     
+    bjfdnvnmckdsjhnckjbndjkjfnasjkjnjds
+    
 	IEnumerator slowTime()
 	{
 
